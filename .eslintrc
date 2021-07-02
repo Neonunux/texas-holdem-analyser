@@ -1,9 +1,16 @@
 {
   "extends": [
-    "react-app"
+    "airbnb-typescript"
   ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "rules": {
+    "@typescript-eslint/no-use-before-define": ["error", { "functions": false }],
+    "import/no-webpack-loader-syntax": "off",
     "import/prefer-default-export": "off",
+    "no-param-reassign": ["error", { "props": false }],
+    "prefer-destructuring": "off",
     "react/prop-types": "off"
   }
 }
