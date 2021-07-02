@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokkers/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pokkers/static/js/main.6c6da12b.chunk.js",
+    "main.js.map": "/pokkers/static/js/main.6c6da12b.chunk.js.map",
+    "runtime-main.js": "/pokkers/static/js/runtime-main.cf5aa2bf.js",
+    "runtime-main.js.map": "/pokkers/static/js/runtime-main.cf5aa2bf.js.map",
+    "static/js/2.3061b76f.chunk.js": "/pokkers/static/js/2.3061b76f.chunk.js",
+    "static/js/2.3061b76f.chunk.js.map": "/pokkers/static/js/2.3061b76f.chunk.js.map",
+    "static/js/3.f29b27fe.chunk.js": "/pokkers/static/js/3.f29b27fe.chunk.js",
+    "static/js/3.f29b27fe.chunk.js.map": "/pokkers/static/js/3.f29b27fe.chunk.js.map",
+    "index.html": "/pokkers/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pokkers/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3061b76f.chunk.js.LICENSE.txt": "/pokkers/static/js/2.3061b76f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pokkers/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5aa2bf.js",
+    "static/js/2.3061b76f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6c6da12b.chunk.js"
+  ]
+}
