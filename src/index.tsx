@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { Pokkers } from './views/Pokkers';
+import { Application } from './views/Application';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Pokkers />
+    <Application />
   </React.StrictMode>,
   document.getElementById('root'),
 );

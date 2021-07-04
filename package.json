@@ -1,7 +1,7 @@
 {
-  "name": "pokkers",
+  "name": "texas-holdem-analyser",
   "version": "0.1.0",
-  "homepage": "https://guillaume-macquat.github.io/pokkers/",
+  "homepage": "https://guillaume-macquat.github.io/texas-holdem-analyser/",
   "private": true,
   "scripts": {
     "start": "react-scripts start",

@@ -2,7 +2,7 @@ import React from 'react';
 
 import './index.css';
 
-export function Pokkers() {
+export function Application() {
   return (
     <>
       Bonjour monde !
