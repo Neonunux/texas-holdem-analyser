@@ -8,9 +8,11 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.171",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "eslint-config-airbnb-typescript": "^12.3.1",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",

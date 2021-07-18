@@ -9,6 +9,7 @@
     "@typescript-eslint/no-use-before-define": ["error", { "functions": false }],
     "import/no-webpack-loader-syntax": "off",
     "import/prefer-default-export": "off",
+    "jsx-a11y/label-has-associated-control": "off",
     "no-param-reassign": ["error", { "props": false }],
     "prefer-destructuring": "off",
     "react/prop-types": "off"
