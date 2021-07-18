@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/texas-holdem-analyser/static/css/main.9d638064.chunk.css",
-    "main.js": "/texas-holdem-analyser/static/js/main.11e09173.chunk.js",
-    "main.js.map": "/texas-holdem-analyser/static/js/main.11e09173.chunk.js.map",
+    "main.css": "/texas-holdem-analyser/static/css/main.c10cac85.chunk.css",
+    "main.js": "/texas-holdem-analyser/static/js/main.d67192d0.chunk.js",
+    "main.js.map": "/texas-holdem-analyser/static/js/main.d67192d0.chunk.js.map",
     "runtime-main.js": "/texas-holdem-analyser/static/js/runtime-main.32d446df.js",
     "runtime-main.js.map": "/texas-holdem-analyser/static/js/runtime-main.32d446df.js.map",
-    "static/js/2.a48b0419.chunk.js": "/texas-holdem-analyser/static/js/2.a48b0419.chunk.js",
-    "static/js/2.a48b0419.chunk.js.map": "/texas-holdem-analyser/static/js/2.a48b0419.chunk.js.map",
+    "static/js/2.5196ec4e.chunk.js": "/texas-holdem-analyser/static/js/2.5196ec4e.chunk.js",
+    "static/js/2.5196ec4e.chunk.js.map": "/texas-holdem-analyser/static/js/2.5196ec4e.chunk.js.map",
     "index.html": "/texas-holdem-analyser/index.html",
-    "static/css/main.9d638064.chunk.css.map": "/texas-holdem-analyser/static/css/main.9d638064.chunk.css.map",
-    "static/js/2.a48b0419.chunk.js.LICENSE.txt": "/texas-holdem-analyser/static/js/2.a48b0419.chunk.js.LICENSE.txt"
+    "static/css/main.c10cac85.chunk.css.map": "/texas-holdem-analyser/static/css/main.c10cac85.chunk.css.map",
+    "static/js/2.5196ec4e.chunk.js.LICENSE.txt": "/texas-holdem-analyser/static/js/2.5196ec4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32d446df.js",
-    "static/js/2.a48b0419.chunk.js",
-    "static/css/main.9d638064.chunk.css",
-    "static/js/main.11e09173.chunk.js"
+    "static/js/2.5196ec4e.chunk.js",
+    "static/css/main.c10cac85.chunk.css",
+    "static/js/main.d67192d0.chunk.js"
   ]
 }

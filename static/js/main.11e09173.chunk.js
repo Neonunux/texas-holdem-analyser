@@ -1,2 +1,0 @@
-(this["webpackJsonptexas-holdem-analyser"]=this["webpackJsonptexas-holdem-analyser"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var r=t(1),o=t.n(r),s=t(3),c=t.n(s),a=(t(8),t(0));function d(){return Object(a.jsx)(a.Fragment,{children:"Bonjour monde !"})}c.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(d,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.11e09173.chunk.js.map
